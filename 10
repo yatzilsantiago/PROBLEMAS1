@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<std bool.h>
+    int main(void){
+    bool a,b;
+    a=true; //1
+    b=false; //0
+    printf("%d",a);
+    printf("%d",b);
+    return 0;
+
+    }

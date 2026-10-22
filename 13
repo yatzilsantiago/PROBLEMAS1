@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main(void){
+
+    int a;
+    scanf("%i",a);
+    if(a=10){
+            printf("%i",a);
+    }
+    else{
+            printf("el numero no es mayor a 10");
+    }
+    return 0;
+}
